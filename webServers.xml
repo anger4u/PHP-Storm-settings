@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="542c6a42-3de7-4d3f-b66e-733dc02f0724" name="rarus-golf" url="http://194.226.180.68">
+        <fileTransfer host="194.226.180.68" port="22168" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22168" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
